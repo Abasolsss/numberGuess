@@ -1,0 +1,14 @@
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\bin\Debug\net8.0\Project007.exe
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\bin\Debug\net8.0\Project007.deps.json
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\bin\Debug\net8.0\Project007.runtimeconfig.json
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\bin\Debug\net8.0\Project007.dll
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\bin\Debug\net8.0\Project007.pdb
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.AssemblyInfoInputs.cache
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.AssemblyInfo.cs
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.csproj.CoreCompileInputs.cache
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.dll
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\refint\Project007.dll
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.pdb
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\Project007.genruntimeconfig.cache
+C:\Users\rodulfo.jr.abasolo\source\repos\Project007\Project007\obj\Debug\net8.0\ref\Project007.dll
